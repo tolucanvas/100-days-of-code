@@ -1,32 +1,32 @@
 # 100 Days of Python Code
 My journey of learning Python through 100 days of coding practice.
-
-🗂️ Repository Structure
-100-days-of-code/
+```
+100-days-of-python/
 │
-├── day-001/
-│       ├── main.py
-│       ├── practice001.py
-│       └── README.md
-│   
-├── day-002/
-│       ├── main.py
-│       ├── practice002.py/
-│       └── README.md
-│  
-│
-│
+├── days/
+│   ├── day-001/
+│   │   ├── main.py
+│   │   ├── practice/
+│   │   └── README.md
+│   │
+│   ├── day-002/
+│   │   ├── main.py
+│   │   ├── practice/
+│   │   └── README.md
+│   │
+│   └── ... (future days)
 │
 ├── projects/
 │   ├── calculator/
 │   ├── todo_list/
 │   └── ... (future projects)
 │
-│    
-│ 
+├── resources/
+│   ├── cheatsheets/
+│   └── useful_links.md
 │
 └── README.md
-
+```
 # 100 Days of Python Learning Journey
 
 ## About This Project
